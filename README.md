@@ -7,7 +7,7 @@
 
   Record, arrange, compose, mix, master, and explore AI-assisted audio workflows in one modern production environment.
 
-  [Download the free Demo](https://hyperiondaw.gumroad.com/l/hyperiondawdemo) · [Get Standard](https://hyperiondaw.gumroad.com/l/hyperiondaw) · [Get Ultimate](https://hyperiondaw.gumroad.com/l/hyperiondawpro) · [Follow updates](https://hyperiondaw.gumroad.com/subscribe)
+  [Get Demo](https://hyperiondaw.gumroad.com/l/hyperiondawdemo) · [Get Standard](https://hyperiondaw.gumroad.com/l/hyperiondaw) · [Get Ultimate](https://hyperiondaw.gumroad.com/l/hyperiondawpro) · [Follow updates](https://hyperiondaw.gumroad.com/subscribe) · [Download Setup](https://hyperiondaw.com/download).  · 
 </div>
 
 ![HyperION digital audio workstation](.github/assets/hyperion-daw-hero.jpg)
