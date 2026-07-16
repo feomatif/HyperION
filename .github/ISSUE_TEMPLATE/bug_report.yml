@@ -1,0 +1,75 @@
+name: Bug report
+description: Report a reproducible problem in HyperION
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve HyperION. Do not include license data, personal information, private project files, or sensitive security details.
+  - type: input
+    id: version
+    attributes:
+      label: HyperION version
+      description: Find the version in the application or your Gumroad download name.
+      placeholder: "Example: 1.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Edition
+      options:
+        - Demo
+        - Standard
+        - Ultimate
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: System and audio setup
+      description: Include Windows version, audio interface, sample rate, and buffer size when relevant.
+      placeholder: "Windows 11, interface name, 48 kHz, 256 samples"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the observed behavior and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Create a new project
+        2. Add ...
+        3. Click ...
+        4. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: plugins
+    attributes:
+      label: Related plugins or files
+      description: List plugin names and versions or safe sample/project details, if relevant.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or screenshots
+      description: Drag in sanitized logs or screenshots. Remove personal and licensing information first.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I reproduced this with the latest build available to me.
+          required: true
+        - label: I checked existing issues for duplicates.
+          required: true
+        - label: This report does not contain sensitive security information.
+          required: true
