@@ -10,6 +10,15 @@
   [Download Free Demo](https://www.hyperiondaw.com/download) · [Buy HyperION](https://www.hyperiondaw.com/buy) · [Compare Editions](https://www.hyperiondaw.com/editions) · [Official Website](https://www.hyperiondaw.com/) · [Download Setup](https://download.hyperiondaw.com/HyperionSetup.exe)
 </div>
 
+<p align="center">
+  <a href="https://github.com/HyperionDAW/HyperION/releases/latest"><img alt="Latest HyperION release" src="https://img.shields.io/github/v/release/HyperionDAW/HyperION?style=for-the-badge&label=HYPERION&labelColor=24114A&color=8B5CF6&logo=github&logoColor=white"></a>
+  <img alt="Windows x64" src="https://img.shields.io/badge/PLATFORM-WINDOWS%20x64-0078D4?style=flat-square&labelColor=24114A&logo=windows11&logoColor=white">
+  <img alt="VST3 support" src="https://img.shields.io/badge/PLUGINS-VST3-8B5CF6?style=flat-square&labelColor=24114A">
+  <img alt="Audio and MIDI workflow" src="https://img.shields.io/badge/WORKFLOW-AUDIO%20%2B%20MIDI-22D3EE?style=flat-square&labelColor=24114A">
+  <img alt="AI tools in Ultimate Edition" src="https://img.shields.io/badge/AI-ULTIMATE%20EDITION-EC4899?style=flat-square&labelColor=24114A">
+  <img alt="Active development" src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-22C55E?style=flat-square&labelColor=24114A">
+</p>
+
 ![HyperION digital audio workstation](.github/assets/hyperion-daw-hero.jpg)
 
 ## From first idea to final master
@@ -52,14 +61,20 @@ Ultimate Edition expands HyperION with tools designed to shorten repetitive prod
 | [Standard](https://www.hyperiondaw.com/buy#paddle-standard) | Everyday music production | Project saving, audio/MIDI export, production tools, and future Standard updates |
 | [Ultimate](https://www.hyperiondaw.com/buy#paddle-ultimate) | The complete HyperION experience | Everything in Standard plus advanced AI production, stem, vocal, pitch, and mastering tools |
 
+<p align="center">
+  <a href="https://www.hyperiondaw.com/download"><img alt="Demo Edition" src="https://img.shields.io/badge/EDITION-DEMO-64748B?style=for-the-badge&labelColor=24114A"></a>
+  <a href="https://www.hyperiondaw.com/buy#paddle-standard"><img alt="Standard Edition" src="https://img.shields.io/badge/EDITION-STANDARD-22D3EE?style=for-the-badge&labelColor=24114A"></a>
+  <a href="https://www.hyperiondaw.com/buy#paddle-ultimate"><img alt="Ultimate Edition" src="https://img.shields.io/badge/EDITION-ULTIMATE-EC4899?style=for-the-badge&labelColor=24114A"></a>
+</p>
+
 See the complete edition comparison on the [HyperION Editions page](https://www.hyperiondaw.com/editions).
 
 ## Download HyperION
 
 <div align="center">
 
-[![Download HyperION Setup](https://img.shields.io/badge/Download-HyperION%20Setup-7C3AED?style=for-the-badge&logo=windows11&logoColor=white)](https://download.hyperiondaw.com/HyperionSetup.exe)
-[![Official Website](https://img.shields.io/badge/Visit-Official%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hyperiondaw.com/)
+[![Download HyperION Setup](https://img.shields.io/badge/DOWNLOAD-SETUP-22D3EE?style=for-the-badge&labelColor=24114A&logo=windows11&logoColor=white)](https://download.hyperiondaw.com/HyperionSetup.exe)
+[![Official Website](https://img.shields.io/badge/OFFICIAL-WEBSITE-EC4899?style=for-the-badge&labelColor=24114A&logo=googlechrome&logoColor=white)](https://www.hyperiondaw.com/)
 
 </div>
 
@@ -87,12 +102,12 @@ This repository is the public home for product information, release communicatio
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/Follow-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HyperionDAW)
-[![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyperiondaw/)
-[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HyperionDAW)
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyperiondaw/HyperION)
-[![Gumroad](https://img.shields.io/badge/Follow-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=000000)](https://hyperiondaw.gumroad.com/)
-[![Patreon](https://img.shields.io/badge/Support-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/Hyperiondaw/)
+[![X](https://img.shields.io/badge/FOLLOW-X-000000?style=for-the-badge&labelColor=24114A&logo=x&logoColor=white)](https://x.com/HyperionDAW)
+[![Instagram](https://img.shields.io/badge/FOLLOW-INSTAGRAM-E4405F?style=for-the-badge&labelColor=24114A&logo=instagram&logoColor=white)](https://www.instagram.com/hyperiondaw/)
+[![YouTube](https://img.shields.io/badge/SUBSCRIBE-YOUTUBE-FF0000?style=for-the-badge&labelColor=24114A&logo=youtube&logoColor=white)](https://www.youtube.com/@HyperionDAW)
+[![GitHub](https://img.shields.io/badge/FOLLOW-GITHUB-8B5CF6?style=for-the-badge&labelColor=24114A&logo=github&logoColor=white)](https://github.com/hyperiondaw/HyperION)
+[![Gumroad](https://img.shields.io/badge/FOLLOW-GUMROAD-FF90E8?style=for-the-badge&labelColor=24114A&logo=gumroad&logoColor=white)](https://hyperiondaw.gumroad.com/)
+[![Patreon](https://img.shields.io/badge/SUPPORT-PATREON-FF424D?style=for-the-badge&labelColor=24114A&logo=patreon&logoColor=white)](https://www.patreon.com/c/Hyperiondaw/)
 
 </div>
 

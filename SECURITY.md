@@ -4,7 +4,7 @@
 
 Please do not open a public GitHub issue for a suspected vulnerability.
 
-Send a private message to the publisher through the [official HyperION Gumroad profile](https://hyperiondaw.gumroad.com/) with:
+Send a private report through the [official HyperION contact page](https://www.hyperiondaw.com/contact) and clearly identify it as a security report. Include:
 
 - The affected HyperION edition and version
 - A clear description of the issue and its impact

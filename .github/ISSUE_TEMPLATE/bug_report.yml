@@ -12,8 +12,8 @@ body:
     id: version
     attributes:
       label: HyperION version
-      description: Find the version in the application or your Gumroad download name.
-      placeholder: "Example: 1.0.0"
+      description: Find the version in HyperION's About or version information.
+      placeholder: "Example: 1.0.4.0"
     validations:
       required: true
   - type: dropdown
@@ -24,6 +24,16 @@ body:
         - Demo
         - Standard
         - Ultimate
+    validations:
+      required: true
+  - type: dropdown
+    id: distribution
+    attributes:
+      label: Installation source
+      options:
+        - Official HyperION Setup
+        - Microsoft Store
+        - Other supported channel
     validations:
       required: true
   - type: input
@@ -61,7 +71,7 @@ body:
     id: evidence
     attributes:
       label: Logs or screenshots
-      description: Drag in sanitized logs or screenshots. Remove personal and licensing information first.
+      description: Drag in sanitized logs, crash dumps, plug-in scan reports, or screenshots. Remove personal and licensing information first.
   - type: checkboxes
     id: checks
     attributes:

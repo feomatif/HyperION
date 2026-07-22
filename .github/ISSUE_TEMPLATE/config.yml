@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Purchase and download support
-    url: https://hyperiondaw.gumroad.com/
+    url: https://www.hyperiondaw.com/contact
     about: Contact HyperION privately for billing, receipts, licenses, or download access.
+  - name: License key and FAQ
+    url: https://www.hyperiondaw.com/faq
+    about: Find answers about setup, editions, purchases, and license activation.
   - name: Security report
     url: https://github.com/hyperiondaw/HyperION/security/policy
     about: Read the security policy before reporting a vulnerability.
