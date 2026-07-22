@@ -7,7 +7,7 @@
 
   Record, arrange, compose, mix, master, and explore AI-assisted audio workflows in one modern production environment.
 
-  [Get Demo](https://hyperiondaw.gumroad.com/l/hyperiondawdemo) · [Get Standard](https://hyperiondaw.gumroad.com/l/hyperiondaw) · [Get Ultimate](https://hyperiondaw.gumroad.com/l/hyperiondawpro) · [Follow updates](https://hyperiondaw.gumroad.com/subscribe) · [Download Setup](https://hyperiondaw.com/download) 
+  [Download Free Demo](https://www.hyperiondaw.com/download) · [Buy HyperION](https://www.hyperiondaw.com/buy) · [Compare Editions](https://www.hyperiondaw.com/editions) · [Official Website](https://www.hyperiondaw.com/) · [Download Setup](https://download.hyperiondaw.com/HyperionSetup.exe)
 </div>
 
 ![HyperION digital audio workstation](.github/assets/hyperion-daw-hero.jpg)
@@ -48,24 +48,59 @@ Ultimate Edition expands HyperION with tools designed to shorten repetitive prod
 
 | Edition | Best for | Included |
 | --- | --- | --- |
-| [Demo](https://hyperiondaw.gumroad.com/l/hyperiondawdemo) | Trying the HyperION workflow | Core interface, recording, mixer, piano roll, and arrangement tools |
-| [Standard](https://hyperiondaw.gumroad.com/l/hyperiondaw) | Everyday music production | Project saving, audio/MIDI export, production tools, and future Standard updates |
-| [Ultimate](https://hyperiondaw.gumroad.com/l/hyperiondawpro) | The complete HyperION experience | Everything in Standard plus advanced AI production, stem, vocal, pitch, and mastering tools |
+| [Demo](https://www.hyperiondaw.com/download) | Trying the HyperION workflow | Core interface, recording, mixer, piano roll, and arrangement tools |
+| [Standard](https://www.hyperiondaw.com/buy#paddle-standard) | Everyday music production | Project saving, audio/MIDI export, production tools, and future Standard updates |
+| [Ultimate](https://www.hyperiondaw.com/buy#paddle-ultimate) | The complete HyperION experience | Everything in Standard plus advanced AI production, stem, vocal, pitch, and mastering tools |
+
+See the complete edition comparison on the [HyperION Editions page](https://www.hyperiondaw.com/editions).
+
+## Download HyperION
+
+<div align="center">
+
+[![Download HyperION Setup](https://img.shields.io/badge/Download-HyperION%20Setup-7C3AED?style=for-the-badge&logo=windows11&logoColor=white)](https://download.hyperiondaw.com/HyperionSetup.exe)
+[![Official Website](https://img.shields.io/badge/Visit-Official%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hyperiondaw.com/)
+
+</div>
+
+The compact HyperION Setup application can install, update, or repair HyperION on supported Windows systems.
+
+[Download Page](https://www.hyperiondaw.com/download) · [Explore Features](https://www.hyperiondaw.com/features) · [Compare Editions](https://www.hyperiondaw.com/editions) · [Buy HyperION](https://www.hyperiondaw.com/buy)
 
 ## Project status
 
-HyperION is under active development. Commercial builds are distributed through the official Gumroad pages above. This repository is the public home for product information, release communication, bug reports, and feature discussions; application source code is not currently distributed here.
+HyperION is under active development. Official builds are distributed through the [HyperION website](https://www.hyperiondaw.com/), with purchasing options provided through supported payment partners.
+
+This repository is the public home for product information, release communication, bug reports, and feature discussions. Application source code is not currently distributed here.
 
 ## Feedback and support
 
 - Found a reproducible bug? [Open a bug report](https://github.com/hyperiondaw/HyperION/issues/new?template=bug_report.yml).
 - Have an idea? [Start a feature request](https://github.com/hyperiondaw/HyperION/issues/new?template=feature_request.yml).
-- Need help with a purchase or download? Contact HyperION through the [official Gumroad profile](https://hyperiondaw.gumroad.com/).
-- Before posting, please read the [support guide](SUPPORT.md). Report sensitive security issues using the process in [SECURITY.md](SECURITY.md).
+- Need help with HyperION, a purchase, or a download? Visit the [official contact page](https://www.hyperiondaw.com/contact).
+- Already purchased HyperION through a supported partner? [Claim your license key](https://www.hyperiondaw.com/claim-license-key).
+- Looking for common answers? Read the [HyperION FAQ](https://www.hyperiondaw.com/faq).
+- Before posting, please read the [support guide](SUPPORT.md).
+- Report sensitive security issues using the process described in [SECURITY.md](SECURITY.md).
 
-## Stay in the loop
+## Follow HyperION
 
-[Follow HyperION updates](https://hyperiondaw.gumroad.com/subscribe) for product news, release announcements, and edition updates.
+<div align="center">
+
+[![X](https://img.shields.io/badge/Follow-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HyperionDAW)
+[![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyperiondaw/)
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HyperionDAW)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyperiondaw/HyperION)
+[![Gumroad](https://img.shields.io/badge/Follow-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=000000)](https://hyperiondaw.gumroad.com/)
+[![Patreon](https://img.shields.io/badge/Support-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/Hyperiondaw/)
+
+</div>
+
+<div align="center">
+
+[Official Website](https://www.hyperiondaw.com/) · [Features](https://www.hyperiondaw.com/features) · [Releases](https://www.hyperiondaw.com/releases) · [FAQ](https://www.hyperiondaw.com/faq) · [Contact](https://www.hyperiondaw.com/contact)
+
+</div>
 
 ---
 
